@@ -1,0 +1,20 @@
+body{
+	background-color: lightblue;
+	font-family: verdana;
+	font-style: italic;
+	background-position: center;
+
+}
+
+h1{
+	font-family: verdana;
+	color: blue;
+}
+
+@media(max-width: 60px){
+	.facet_sidebar{
+		display:none;
+	}
+}
+
+
